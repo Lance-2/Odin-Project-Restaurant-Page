@@ -8,5 +8,8 @@ export default function createHome() {
     <h1>Welcome to My Restaurant</h1>
     <p>Experience the best dining in town!</p>
   `;
+
+
+  
   return homeDiv;
 }
